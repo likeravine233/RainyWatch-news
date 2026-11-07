@@ -1,9 +1,51 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-07T11:51:14.683Z",
+  "generatedAt": "2026-11-07T11:52:28.780Z",
   "channel": {
     "title": "RainyWatch 速递",
     "home": "https://github.com/likeravine233/RainyWatch-news"
   },
-  "items": []
+  "items": [
+    {
+      "id": "n-20261107-notice2349",
+      "kind": "notice",
+      "priority": 1,
+      "publishedAt": "2026-11-07T11:52:28.780Z",
+      "updatedAt": "2026-11-07T11:52:28.780Z",
+      "expiresAt": "2026-11-21T11:52:28.780Z",
+      "title": "RainyWatch 速递上线",
+      "summary": "RainyWatch 速递频道开始试运行,内容由编辑部整理并经人工审核,欢迎反馈。",
+      "teams": [],
+      "players": [],
+      "event": "",
+      "sources": [],
+      "aiAssisted": false,
+      "corrected": false
+    },
+    {
+      "id": "t-20261106-grecu-falcons-force",
+      "kind": "transfer",
+      "priority": 2,
+      "publishedAt": "2026-11-07T11:52:28.780Z",
+      "updatedAt": "2026-11-07T11:52:28.780Z",
+      "expiresAt": "2026-11-14T11:52:28.780Z",
+      "title": "grecu 离开 Falcons Force",
+      "summary": "据 Liquipedia 变阵记录，11月6日grecu 离开 Falcons Force。",
+      "teams": [
+        "Falcons Force"
+      ],
+      "players": [
+        "grecu"
+      ],
+      "event": "",
+      "sources": [
+        {
+          "name": "Liquipedia",
+          "url": "https://x.com/neevepro/status/2117984435991875682"
+        }
+      ],
+      "aiAssisted": false,
+      "corrected": false
+    }
+  ]
 }
